@@ -14,4 +14,9 @@ $ npm start
 
 This will give you a live server that hot-reloads any time an `html` or `css` file is saved in any of the subdirectories.
 
-Check out `browser-sync` for more info: 
+
+![Terminal](img/terminal.png)
+
+Now you can navigate to `http://10.0.0.53:3000` (or whatever is displayed) to see your project.
+
+Check out `browser-sync` for more info: https://www.browsersync.io.
