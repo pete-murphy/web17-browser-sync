@@ -1,5 +1,9 @@
 # Example use of `browser-sync`
 
+**Note:** This assumes you have [Node](https://nodejs.org/en/) installed.
+
+## Instructions
+
 Copy the `package.json` file into the root directory of your Lambda School projects (assuming you have all your LS projects in one directory). Then run
 
 ```bash
