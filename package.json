@@ -1,0 +1,10 @@
+{
+  "name": "web17-browser-sync",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start --server --files \"*.css, *.html, ./**/*.css, ./**/*.html\" --directory"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
