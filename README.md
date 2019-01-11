@@ -21,7 +21,6 @@ This will give you a live server that hot-reloads any time an `html` or `css` fi
 
 ![Terminal](img/terminal.png)
 
-<<<<<<< HEAD
 Now you can navigate to `http://10.0.0.XX:3000` (whatever is displayed under `External`) to see your project.
 
 ![Animation](img/sequence.gif)
