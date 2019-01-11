@@ -17,6 +17,10 @@ This will give you a live server that hot-reloads any time an `html` or `css` fi
 
 ![Terminal](img/terminal.png)
 
-Now you can navigate to `http://10.0.0.53:3000` (or whatever is displayed) to see your project.
+Now you can navigate to `http://10.0.0.XX:3000` (whatever is displayed under `External`) to see your project.
+
+![Animation](img/sequence.gif)
+
+**Bonus:** You can open this address in your phone, tablet, laptop, and desktop&mdash;all at once if you want&mdash;and it will keep all in sync.
 
 Check out `browser-sync` for more info: https://www.browsersync.io.
