@@ -1,6 +1,10 @@
 # Example use of `browser-sync`
 
-Clone this repo or copy the package.json into the root directory of your Lambda School projects (assuming you have all your LS projects in one directory). Then run
+**Note:** This assumes you have [Node](https://nodejs.org/en/) installed.
+
+## Instructions
+
+Copy the `package.json` file into the root directory of your Lambda School projects (assuming you have all your LS projects in one directory). Then run
 
 ```bash
 $ npm i
@@ -17,6 +21,7 @@ This will give you a live server that hot-reloads any time an `html` or `css` fi
 
 ![Terminal](img/terminal.png)
 
+<<<<<<< HEAD
 Now you can navigate to `http://10.0.0.XX:3000` (whatever is displayed under `External`) to see your project.
 
 ![Animation](img/sequence.gif)
